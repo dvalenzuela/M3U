@@ -1,3 +1,6 @@
+Simple Parser class for M3U files that contains EXTINF. 
+
+
 # M3U
 
 M3U (MP3 URL[1][2] or Moving Picture Experts Group Audio Layer 3 Uniform Resource Locator[3] in full) is a computer file format for a multimedia playlist. One common use of the M3U file format is creating a single-entry playlist file pointing to a stream on the Internet. The created file provides easy access to that stream and is often used in downloads from a website, for emailing, and for listening to Internet radio.
